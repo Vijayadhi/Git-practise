@@ -1,3 +1,5 @@
+
+
 1.creating a local repository      
 
 	git init
@@ -14,6 +16,10 @@
 
 	git branch -m main
 
+
+Note: Create a new repository on the git website to get the link.
+Note: You can find these steps after creating a new repo
+
 5. to connect the remote repo with local repo
 
 	git remote add origin <repo link>
@@ -21,4 +27,7 @@
 6. to push the local repo to the remote repo
 
 	git push -u origin master
+
+
+
 
