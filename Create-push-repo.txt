@@ -1,0 +1,24 @@
+1.creating a local repository      
+
+	git init
+
+2. to select the files to be  added on the repositories,
+
+	git add <filename>/.
+
+3. to verify and commit the changes, 
+
+	git commit -m "<commit name>"
+
+4. to make the repository available on main
+
+	git branch -m main
+
+5. to connect the remote repo with local repo
+
+	git remote add origin <repo link>
+	
+6. to push the local repo to the remote repo
+
+	git push -u origin master
+
