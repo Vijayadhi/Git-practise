@@ -31,3 +31,13 @@ Note: You can find these steps after creating a new repo
 
 
 
+To save the changes in the aldready created repositories,
+
+	git add <filename>/.
+	git commit -m "<commit name>"
+	git push
+
+
+To import the chages from the remote repository
+
+
